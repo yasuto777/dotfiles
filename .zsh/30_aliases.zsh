@@ -27,3 +27,5 @@ alias rc='source ${HOME}/.zshrc'
 
 alias post='curl -sS -X POST'
 alias get='curl -sS -X GET'
+
+alias tree='tree -C'
